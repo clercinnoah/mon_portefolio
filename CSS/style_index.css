@@ -73,7 +73,7 @@ button:active {
 .projets-container {
   display: flex;
   justify-content: center;
-  gap: 50px;
+  gap: 15px;
 }
 
 .projet {
@@ -116,5 +116,6 @@ footer {
     border-top: 2px solid #4ecca3;
     font-size: 15px;
     color: #dcdcdc;
+
 
 }
